@@ -1,4 +1,6 @@
 # responsive-site
+![Views](https://hits.sh/github.com/RasimAghayev/responsive-site.svg?label=views&color=0e75b6)
+
 
 Responsive navigation bar templates — pure HTML/CSS/JS, no build step.
 
